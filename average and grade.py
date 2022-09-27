@@ -1,5 +1,5 @@
 #program to find grade and average marks of a student
-#aurthur praveen.p,regno:192110293
+#aurthur SHADAB ,regno:192124195
 mark_1=int(input("enter the value of mark_1"))
 mark_2=int(input("enter the value of mark_2"))
 mark_3=int(input("enter the value of mark_3"))
