@@ -1,7 +1,10 @@
-n=int(input("enter the number:"))
-if n<=0:
-    print("please enter positive number")
+num=6
+factorial=1
+if num<0:
+    print("factorial does not exist")
+elif num==0:
+    print("the factorial of 0 is 1")
 else:
-    print("saveetha")
-    for i in range(n):
-        print(f(i))
+    for i in range(1,num+1):
+        factorial=factorial*i
+    print("the factorial of",num,"is",factorial)
