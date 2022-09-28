@@ -22,3 +22,4 @@
 22)sun of n number
 23)video 
 24)water
+25)perfect and factors of n numbers
