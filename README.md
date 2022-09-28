@@ -23,3 +23,4 @@
 23)video 
 24)water
 25)perfect and factors of n numbers
+26)upper lower
