@@ -24,3 +24,5 @@
 24)water
 25)perfect and factors of n numbers
 26)upper lower
+27)onine retiler
+28)positve negative
