@@ -37,3 +37,5 @@
 37)module
 38)combination
 39)alphabatical ascending order
+40)no of vowels
+41)square and cubes of decimal number
