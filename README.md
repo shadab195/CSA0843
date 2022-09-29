@@ -26,3 +26,13 @@
 26)upper lower
 27)onine retiler
 28)positve negative
+29)senior citizen
+30)odd even square
+31)max and mim
+32)palindrome
+33)skip
+34)leap year
+35)pattern
+36)merge
+37)module
+38)combination
