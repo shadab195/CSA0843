@@ -43,3 +43,4 @@
 43)reverse the number using loop
 44)smaller number count
 45)vowels and consonates
+46)reverse using loop
