@@ -41,3 +41,5 @@
 41)square and cubes of decimal number
 42)staff user & student user
 43)reverse the number using loop
+44)smaller number count
+45)vowels and consonates
