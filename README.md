@@ -44,3 +44,12 @@
 44)smaller number count
 45)vowels and consonates
 46)reverse using loop
+47)composite 
+48)count the string 
+49)lcm and gcd
+50)employee salary
+51)frequency
+52)nah
+53)vote
+54)power
+55)pattern
